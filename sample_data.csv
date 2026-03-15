@@ -1,0 +1,42 @@
+date,type,category,amount,description
+2024-01-01,Income,Salary,50000,Monthly Salary
+2024-01-05,Expense,Food,1200,Groceries
+2024-01-08,Expense,Transport,800,Fuel
+2024-01-12,Expense,Shopping,3500,Clothes
+2024-01-15,Expense,Bills,2200,Electricity
+2024-01-20,Expense,Entertainment,1500,Movies & Dining
+2024-01-25,Expense,Food,900,Restaurant
+2024-02-01,Income,Salary,50000,Monthly Salary
+2024-02-03,Expense,Food,1100,Groceries
+2024-02-07,Expense,Bills,2400,Internet + Phone
+2024-02-10,Expense,Shopping,4200,Electronics
+2024-02-14,Expense,Entertainment,2800,Weekend trip
+2024-02-20,Expense,Transport,600,Cab rides
+2024-02-22,Expense,Healthcare,3000,Doctor visit
+2024-03-01,Income,Salary,50000,Monthly Salary
+2024-03-05,Expense,Food,1300,Groceries
+2024-03-10,Expense,Shopping,2100,Books & Stationery
+2024-03-15,Expense,Bills,1900,Utilities
+2024-03-18,Expense,Entertainment,1200,Streaming subscriptions
+2024-03-22,Expense,Transport,700,Metro pass
+2024-03-28,Expense,Education,5000,Online course
+2024-04-01,Income,Salary,53000,Monthly Salary + Increment
+2024-04-04,Expense,Food,1400,Groceries
+2024-04-08,Expense,Shopping,5500,Furniture
+2024-04-12,Expense,Bills,2100,Electricity
+2024-04-16,Expense,Entertainment,1800,Concert
+2024-04-20,Expense,Transport,850,Fuel
+2024-04-25,Expense,Healthcare,1500,Medicines
+2024-05-01,Income,Salary,53000,Monthly Salary
+2024-05-05,Expense,Food,1250,Groceries
+2024-05-10,Expense,Transport,900,Cab + Fuel
+2024-05-15,Expense,Bills,2300,All utilities
+2024-05-18,Expense,Shopping,3200,Clothes
+2024-05-22,Expense,Entertainment,2200,Dining out
+2024-06-01,Income,Salary,53000,Monthly Salary
+2024-06-03,Expense,Food,1350,Groceries
+2024-06-07,Expense,Shopping,6000,Summer sale
+2024-06-12,Expense,Bills,2000,Bills
+2024-06-15,Expense,Entertainment,3500,Weekend getaway
+2024-06-20,Expense,Transport,800,Fuel
+2024-06-25,Expense,Education,2000,Book purchase
