@@ -1307,8 +1307,14 @@ def dashboard():
 
         st.markdown("---")
         st.markdown('<p class="sh">Monthly Summary Preview</p>', unsafe_allow_html=True)
+
+        def color_savings(val):
+            color = "#dcfce7" if val >= 0 else "#fee2e2"
+            text  = "#166534" if val >= 0 else "#991b1b"
+            return f"background-color: {color}; color: {text}; font-weight: 700"
+
         st.dataframe(
-            summary.style.format("₹{:,.0f}").background_gradient(subset=["Savings"],cmap="RdYlGn"),
+            summary.style.format("₹{:,.0f}").applymap(color_savings, subset=["Savings"]),
             use_container_width=True)
 
 # ─────────────────────────────────────────────────────────────────────
