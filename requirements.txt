@@ -17,4 +17,5 @@ yfinance>=0.2          # live crypto prices
 pytesseract>=0.3       # receipt OCR (also needs the Tesseract binary:
 pillow>=10.0           #   apt install tesseract-ocr  /  brew install tesseract)
 SpeechRecognition>=3.10 # voice transaction entry (Google STT)
-anthropic>=0.40        # LLM-powered chat answers (needs ANTHROPIC_API_KEY)matplotlib
+anthropic>=0.40        # LLM-powered chat answers (needs ANTHROPIC_API_KEY)
+matplotlib
