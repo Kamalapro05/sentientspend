@@ -58,4 +58,13 @@ Thumbs.db
 # --- Application Generated Exports ---
 *.xlsx
 *.pdf
-exports/
+exports/patch.py
+patch_groq.py
+patch_ocr.py
+fix_gemini.py
+fix_indent.py
+fix_indent_final.py
+17.txt
+folder_structure.txt
+tessdata/
+*.log
